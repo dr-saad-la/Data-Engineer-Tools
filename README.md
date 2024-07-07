@@ -174,10 +174,6 @@ This repository contains a comprehensive list of tools commonly used in data eng
   - Jupyter Notebooks
   - IntelliJ IDEA
 
-# Data Engineering Tools
-
-This repository contains a comprehensive list of tools commonly used in data engineering. These tools are categorized based on their functionality and usage.
-
 
 ## Contributing
 
